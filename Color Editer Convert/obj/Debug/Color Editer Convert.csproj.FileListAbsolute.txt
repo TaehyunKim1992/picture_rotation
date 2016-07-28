@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color_Editer_Convert.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color_Editer_Convert.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.pdb
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.exe.config
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.exe
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\bin\Debug\Color Editer Convert.pdb
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.csprojResolveAssemblyReference.cache
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color_Editer_Convert.Form1.resources
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color_Editer_Convert.Properties.Resources.resources
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.csproj.GenerateResource.Cache
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.exe
+C:\Users\Mamba\Desktop\Color Editer Convert\Color Editer Convert\obj\Debug\Color Editer Convert.pdb
